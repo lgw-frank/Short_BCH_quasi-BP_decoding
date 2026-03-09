@@ -831,7 +831,7 @@ def Draw_multiple_data_file(compare_pattern,save_path,key_attribute):
     Model = SE.ScatterEXIT()
     directory_path = './data_files/'+'*dB/'
     full_compare_pattern = directory_path+compare_pattern
-    #Model.plot_density_strips_regular_file(full_compare_pattern, save_path,bandwidth=0.1)
     fer_tuple = GL.get_map('true_fer_asymptotes')
+    #Model.plot_density_strips_regular_file(full_compare_pattern, save_path,bandwidth=0.1)
     Model.plot_mean_curves_multi_files(full_compare_pattern,save_path,true_fer_asymptotes=fer_tuple)    
     #Model.plot_diff_redundancy_shift(full_compare_pattern,save_path,keystr=key_attribute)
