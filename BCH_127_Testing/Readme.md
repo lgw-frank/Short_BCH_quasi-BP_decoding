@@ -23,7 +23,7 @@ sys.argv = "python <min_snr> <max_snr> <num_points> <batch_size> <num_batches> <
 | `num_points` | Number of evenly distributed SNR points between min_snr and max_snr | `6` |
 | `batch_size` | Number of samples per batch | `100` |
 | `num_batches` | Total number of batches to process | `1000` |
-| `max_iterations` | Maximum iterations for NMS decoding (higher values yield diminishing FER gains) | `18` |
+| `max_iterations` | Maximum iterations for QBP/NMS-1 decoding (higher values yield diminishing FER gains) | `18` |
 | `parity_check_matrix_file` | BCH parity-check matrix file | `BCH_127_64_10_strip.alist` |
 | `decoder_type` | BP variant to evaluate (`QBP` for conventional BP, `NMS-1` for conventional NMS) | `QBP/NMS-1` |
 
