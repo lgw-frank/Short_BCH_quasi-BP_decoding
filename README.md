@@ -1,8 +1,8 @@
 # Short_BCH_quasi-BP_decoding
 
 ## Project Overview
-
-This project implements quasi-BP decoding algorithms for short BCH codes. The codebase is organized into three main modules:
+New material will be included or updated for this project before next Monday! Thus the following material is somewhat obsoleted which need to be referred carefully. 2026.7.1 China
+<This project implements quasi-BP decoding algorithms for short BCH codes. The codebase is organized into three main modules:
 
 | Module | Purpose | Status |
 |--------|---------|--------|
@@ -16,3 +16,4 @@ Before working with any module, **please read its corresponding `Readme.md` file
 - Module-specific setup instructions
 - Configuration details
 - Usage examples and dependencies
+>
