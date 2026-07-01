@@ -1,7 +1,7 @@
 # Short_BCH_quasi-BP_decoding
 
 ## Project Overview
-New material will be included or updated for this project before next Monday! Thus the following material is somewhat obsoleted which need to be referred carefully. 2026.7.1 China
+Please note that new materials will be added or updated for this project prior to next Monday. Consequently, the current documentation or code should be considered partially obsolete and must be referenced with caution. 2026.7.1 China
 <This project implements quasi-BP decoding algorithms for short BCH codes. The codebase is organized into three main modules:
 
 | Module | Purpose | Status |
