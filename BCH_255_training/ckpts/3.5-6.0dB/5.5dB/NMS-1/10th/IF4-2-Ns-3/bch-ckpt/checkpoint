@@ -1,0 +1,12 @@
+model_checkpoint_path: "bch-ckpt-500"
+all_model_checkpoint_paths: "bch-ckpt-420"
+all_model_checkpoint_paths: "bch-ckpt-440"
+all_model_checkpoint_paths: "bch-ckpt-460"
+all_model_checkpoint_paths: "bch-ckpt-480"
+all_model_checkpoint_paths: "bch-ckpt-500"
+all_model_checkpoint_timestamps: 1782366494.2672648
+all_model_checkpoint_timestamps: 1782366558.92569
+all_model_checkpoint_timestamps: 1782366617.5377047
+all_model_checkpoint_timestamps: 1782366679.6408062
+all_model_checkpoint_timestamps: 1782366741.9565644
+last_preserved_timestamp: 1782365222.0593297

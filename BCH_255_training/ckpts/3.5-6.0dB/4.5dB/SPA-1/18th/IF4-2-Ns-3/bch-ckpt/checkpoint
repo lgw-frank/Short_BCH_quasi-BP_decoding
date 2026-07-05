@@ -1,0 +1,12 @@
+model_checkpoint_path: "bch-ckpt-400"
+all_model_checkpoint_paths: "bch-ckpt-360"
+all_model_checkpoint_paths: "bch-ckpt-370"
+all_model_checkpoint_paths: "bch-ckpt-380"
+all_model_checkpoint_paths: "bch-ckpt-390"
+all_model_checkpoint_paths: "bch-ckpt-400"
+all_model_checkpoint_timestamps: 1782052097.9147465
+all_model_checkpoint_timestamps: 1782052143.4050868
+all_model_checkpoint_timestamps: 1782052188.6428125
+all_model_checkpoint_timestamps: 1782052234.3627398
+all_model_checkpoint_timestamps: 1782052280.073633
+last_preserved_timestamp: 1782050465.07103

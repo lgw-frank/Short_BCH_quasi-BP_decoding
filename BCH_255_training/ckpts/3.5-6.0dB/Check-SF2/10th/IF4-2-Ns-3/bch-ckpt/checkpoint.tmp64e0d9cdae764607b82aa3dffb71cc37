@@ -1,0 +1,12 @@
+model_checkpoint_path: "bch-ckpt-30800"
+all_model_checkpoint_paths: "bch-ckpt-30400"
+all_model_checkpoint_paths: "bch-ckpt-30500"
+all_model_checkpoint_paths: "bch-ckpt-30600"
+all_model_checkpoint_paths: "bch-ckpt-30700"
+all_model_checkpoint_paths: "bch-ckpt-30800"
+all_model_checkpoint_timestamps: 1782123903.1712282
+all_model_checkpoint_timestamps: 1782123909.2177267
+all_model_checkpoint_timestamps: 1782123915.1297514
+all_model_checkpoint_timestamps: 1782123920.4809175
+all_model_checkpoint_timestamps: 1782123926.112127
+last_preserved_timestamp: 1782121997.5237448
