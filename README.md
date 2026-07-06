@@ -6,7 +6,7 @@ This project implements quasi-BP (Belief Propagation) decoding algorithms for sh
 
 | Module | Purpose | Status |
 | :--- | :--- | :--- |
-| [`BCH_255_Training/`](./BCH_255_training/) | **Main module** for training, decoding, and evaluation | 🟢 Active development |
+| [`BCH_255_training/`](./BCH_255_training/) | **Main module** for training, decoding, and evaluation | 🟢 Active development |
 | [`Training_data_gen_255/`](./Training_data_gen_255/) | Generates and saves raw received sequences for decoding | 🟡 Maintenance mode |
 
 ---
