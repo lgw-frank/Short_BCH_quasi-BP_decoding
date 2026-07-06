@@ -33,7 +33,7 @@ Starting with the module's documentation will save you time and help avoid commo
    ```
 
 2. **Choose your workflow**:
-   - For **training decoders**: start with [`BCH_255_Training/`](./BCH_255_Training/)
+   - For **training decoders**: start with [`BCH_255_training/`](./BCH_255_training/)
    - For **generating training data**: start with [`Training_data_gen_255/`](./Training_data_gen_255/)
 
 3. **Read the module-specific `Readme.md`** before running any scripts.
@@ -44,7 +44,7 @@ Starting with the module's documentation will save you time and help avoid commo
 
 ```
 .
-├── BCH_255_Training/          # 🎯 Main module: training and evaluation
+├── BCH_255_training/          # 🎯 Main module: training and evaluation
 │   └── Readme.md              # Detailed guide for decoder training
 ├── Training_data_gen_255/     # 📊 Supporting module: data generation
 │   └── Readme.md              # Detailed guide for data generation
